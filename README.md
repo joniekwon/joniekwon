@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+-  I ❤ to work with Data. I'm currently learning Data Science & ML/DL. <!--I want to work as a data scientist.-->
+  - 🤩 Interested in..
+    - (Raw)💦 Data Preprocessing
+    - Data Analysis / Visualization 📊: matplotlib, seaborn, R etc. (interested in GA, Tableau..)
+    - NLP💬, Personalization and Recommendation : -
+    - MLOps(ML + DevOps): -
+    
 <!--
 **joniekwon/joniekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
