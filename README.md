@@ -1,9 +1,9 @@
 ### I ❤ to work with Data. I'm currently learning Data Science & ML/DL. <!--I want to work as a data scientist.-->
 - 🤩 Interested in..
-    - (Raw)💦 Data Preprocessing
+    - Data Preprocessing
     - Data Analysis / Visualization 📊
     - NLP💬, Personalization and Recommendation
-    - MLOps(ML + DevOps)
+    - MLOps
     
 <!--
 **joniekwon/joniekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
