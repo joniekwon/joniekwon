@@ -2,9 +2,7 @@
 - 🤩 Interested in..
     - Data Preprocessing
     - Data Analysis / Visualization 📊
-    - NLP💬, Personalization and Recommendation
-    - MLOps
-    
+    - NLP💬, Personalization and Recommendation    
 <!--
 **joniekwon/joniekwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
