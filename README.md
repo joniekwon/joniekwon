@@ -12,12 +12,12 @@
 -->
 
 <br>
-
+<!-- 
 ## I ❤ to work with Data. I'm currently learning Data Science. <!--I want to work as a data scientist.-->
 - Data Analysis : Data Preprocessing & Visualization 📊
 - NLP💬, Personalization and Recommendation
 - and 🌱 Docker, MLOps.. etc.
-
+-->
 <br>
 
 ## 🚀 Skills & Tools
