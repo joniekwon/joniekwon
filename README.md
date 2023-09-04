@@ -1,6 +1,7 @@
 <div align="center">
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFC0CB&height=300&section=header&text=JeongIn%20Kwon&fontSize=90&fontColor=FFFFFF)
+  -->
   
 [![Notion](https://img.shields.io/badge/JNN%20WIKI-000000?style=for-the-badge&logo=Notion&logoColor=FFFFFF)](https://www.notion.so/jnn-dev/4d9d0ad97151496fa6444ffafd5b1c8b?v=2035e35456f3461085aa9f1f3d07d1c8) [![W&B](https://img.shields.io/badge/W%20&%20B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000000)](https://wandb.ai/joniekwon22/projects) [![Naver](https://img.shields.io/badge/Email-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white)](mailto:kkkji1215@naver.com) 
 
@@ -23,8 +24,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br>
-
-## Services
 
 <a href="https://markcloud.co.kr/mark-view"><img src="https://markcloud.kr/image/service_markview_black.png" width="100" height="35"></a>
 
